@@ -1,0 +1,79 @@
+.uppercase {
+  text-transform: uppercase;
+}
+.gray {
+  color: gray;
+}
+.white {
+  color: white;
+}
+.black {
+  color: black;
+}
+.paragraph {
+  font-family: arial;
+}
+.jet {
+	background-image: url("images/lm-jet.jpg");
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 300px;
+	display: flex; 
+}
+.nevada {
+	background-image: url("images/nevada.jpg");
+	background-size: cover;
+	background-position: center; 
+	width: 100%;
+	height: 300px; 
+}
+
+.nav { 
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; 
+	
+}
+p {
+	margin-bottom: 50px;
+	margin-top: 50px; 
+	margin-right: 200px; 
+	margin-left: 200px; 
+	text-align: center; 
+	font-size: 10pt;
+	line-height: 15pt;  
+	display: inline-block;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 
+}
+h1 {
+	text-align: center; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; 
+	display: block;
+}
+#p-intro{
+	margin-bottom: 30px;
+	margin-top: 10px; 
+	margin-right: 200px; 
+	margin-left: 200px; 
+	font-size: 12pt; 
+}
+a {
+	list-style-type: none; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: bold;
+	text-align: center;
+	color: slategray;
+	text-transform: uppercase;
+	text-decoration: none; 
+	word-spacing: 80px; 
+	padding: 30px 20px; 
+	font-size: 8.5px;
+}
+#home {
+	text-align: center; 
+	text-transform: uppercase; 
+	font-family: "gill sans";
+}
