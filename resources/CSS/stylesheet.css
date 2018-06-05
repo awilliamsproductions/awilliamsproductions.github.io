@@ -14,7 +14,7 @@
   font-family: arial;
 }
 .jet {
-	background-image: url("images/lm-jet.jpg");
+	background-image: url("../images/LM-Jet.jpg");
 	background-size: cover;
 	background-position: center;
 	width: 100%;
@@ -22,7 +22,7 @@
 	display: flex; 
 }
 .nevada {
-	background-image: url("images/nevada.jpg");
+	background-image: url("../images/nevada.jpg");
 	background-size: cover;
 	background-position: center; 
 	width: 100%;
