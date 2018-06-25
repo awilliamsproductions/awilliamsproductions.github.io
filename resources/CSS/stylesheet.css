@@ -34,17 +34,22 @@ html, body {
 .main {
 	height: 45rem; 
 	padding-top: 1rem;
-	background-image: url("../images/../../../../../Space.svg");
+	background-image: url("../images/Space.svg");
 	background-size: cover;
 	background-repeat: no-repeat; 
 	background-position: center;
 }
-
+.drone {
+	height: 45rem; 
+	background-image: url("../images/Drone_NYC.jpg");
+	background-size: cover;
+	background-repeat: no-repeat; 
+	background-position: center;
+}
 .main img {
 	width: 15rem; 
 	display: block; 
 	margin: auto; 
-	margin-top: 5rem;
 }
 
 @media only screen and (max-width:470px) {
@@ -73,7 +78,6 @@ li {
 }
 
 .about,
-.services,
 .gallery,
 .location {
   margin: 4em auto;
